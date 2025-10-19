@@ -8,8 +8,6 @@ Puedes abrir y visualizar el informe directamente en Overleaf:
 
 [![Overleaf](https://www.overleaf.com/read/wtjztxhnjpdh#a525b0)]  
 
-
-
 ## Contenido del informe
 
 - Introducción al proyecto.
@@ -19,4 +17,5 @@ Puedes abrir y visualizar el informe directamente en Overleaf:
 - Evidencias y capturas de pantallas de todas las dependencias.
 - Despliegue de aplicaciones web con Streamlit.
 - Conclusiones.
+
 
