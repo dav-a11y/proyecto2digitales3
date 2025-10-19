@@ -6,7 +6,7 @@ Este proyecto documenta la instalación, configuración y administración de má
 
 Puedes abrir y visualizar el informe directamente en Overleaf:
 
-[![Overleaf](https://www.overleaf.com/read/wtjztxhnjpdh#a525b0)]  
+[Overleaf](https://www.overleaf.com/read/wtjztxhnjpdh#a525b0)  
 
 ## Contenido del informe
 
