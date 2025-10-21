@@ -18,4 +18,5 @@ Puedes abrir y visualizar el informe directamente en Overleaf:
 - Despliegue de aplicaciones web con Streamlit.
 - Conclusiones.
 
+[Pag.streamlit](https://proyecto2digitales3-8dafhbjdwmvcwsbtgqspq5.streamlit.app/)
 
